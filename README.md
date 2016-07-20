@@ -1,6 +1,10 @@
 # BuzzMining
 Final Project for Real-time and Big Data Analytics
 
+Designed an application which allowed users to enter query words and returned their popularity analysis and summary of public attitudes towards them, based on real-time data crawled from Reddit, Twitter and Yelp 
+
+Implemented spider program using Python and Scrapy Framework to crawl websites; used Java, MapReduce and Pig to clean crawled data; end results included graphs showing popularity trends, pie charts showing opinion distribution, list of top words associated with the searched word, prediction of future popularity etc.
+
 spark_twitter.py is used to parse twitter data and applies Spark technique.
 
 yelp_merge.py, yelp_parse_business_list.py and yelp_parse_tip_list.py are used to parse yelp data.
