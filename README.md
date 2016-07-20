@@ -1,14 +1,6 @@
 # BuzzMining
 Final Project for Real-time and Big Data Analytics
 
-Team Members:
-
-Weihang Song 
-
-Wenzhao Zang 
-
-Yingchao Wang 
-
 spark_twitter.py is used to parse twitter data and applies Spark technique.
 
 yelp_merge.py, yelp_parse_business_list.py and yelp_parse_tip_list.py are used to parse yelp data.
