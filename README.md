@@ -5,6 +5,10 @@ Designed an application which allowed users to enter query words and returned th
 
 Implemented spider program using Python and Scrapy Framework to crawl websites; used Java, MapReduce and Pig to clean crawled data; end results included graphs showing popularity trends, pie charts showing opinion distribution, list of top words associated with the searched word, prediction of future popularity etc.
 
+Please see the following report for more details:
+
+https://drive.google.com/open?id=0B_bKdJl2aPq_Qnd6ZFRRY2NWMlE
+
 Run Configuration:
 
 spark_twitter.py is used to parse twitter data and applies Spark technique.
